@@ -5,4 +5,4 @@
  * author: Glaucia Lemos <Twitter: @glaucia_lemos86>
  */
 
-package chat
+package entity
